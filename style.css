@@ -84,3 +84,9 @@ html, body, .contento {
   color: white;
   transition: background-color 200ms;
 }
+
+.link_hover:hover{
+  opacity: 0.6;
+  transition: opacity 100ms;
+
+}
