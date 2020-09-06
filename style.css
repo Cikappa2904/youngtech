@@ -60,6 +60,16 @@
 
 }
 
+
+.content1 {
+  max-width: 720px;
+  
+  margin: auto;
+  
+  color:white;
+
+}
+
 html, body, .contento {
   height: 90%;
 }
